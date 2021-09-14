@@ -16,13 +16,13 @@ The props of this component are-
 
   Descriptions of props
   ----------------------
-  1. text = The "text" prop gets the text of the button. The value of this prop will be displayed on the button. eg: "<NeonButton text="Hello World" />"
+  1. text = The "text" prop gets the text of the button. The value of this prop will be displayed on the button.
 
   2. style = The style prop work same as react jsx inline styling. eg: "<NeonButton style={{fontSize: "2rem"}} />"
 
-  3. hoverColor = This prop gets the color of button text while hovered. eg: "<NeonButton hoverColor="white" />"
+  3. hoverColor = This prop gets the color of button text while hovered.
 
-  4. hoverBGcolor = This prop gets the background color of button while hovered. eg: "<NeonButton hoverBGcolor="skyblue" />"
+  4. hoverBGcolor = This prop gets the background color of button while hovered.
 
   5. clickFunction = This prop gets a callback function which will be called when the button is clicked. eg: "<NeonButton clickFunction={()=> {console.log("Hello World")}} />"
 
